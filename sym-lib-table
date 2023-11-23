@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Flipper-Zero-Esp8266-Module")(type "KiCad")(uri "${KIPRJMOD}/Flipper-Zero-Esp8266-Module.kicad_sym")(options "")(descr ""))
+)
